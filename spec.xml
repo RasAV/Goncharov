@@ -1,0 +1,38 @@
+<Spectrum>
+<Pixel>
+    <Index>0</Index>
+    <Intensity>10</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>1</Index>
+    <Intensity>11</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>2</Index>
+    <Intensity>22</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>3</Index>
+    <Intensity>38</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>4</Index>
+    <Intensity>37</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>5</Index>
+    <Intensity>44</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>6</Index>
+    <Intensity>2</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>7</Index>
+    <Intensity>2600</Intensity>
+  </Pixel>
+  <Pixel>
+    <Index>8</Index>
+    <Intensity>21</Intensity>
+  </Pixel>
+</Spectrum>
